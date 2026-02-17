@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+.env/
+
+# Local DB
+*.db
+
+# Editor / OS
+.vscode/
+.DS_Store
